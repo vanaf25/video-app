@@ -1,0 +1,23 @@
+body{
+  background: linear-gradient(90deg, #16BFFD,#CB3066);
+  font-family: 'Roboto',Arial,sans-serif;
+}
+h1,h2,h3,h5,h5,h6{
+  font-weight: normal;
+  margin-top: 0;
+}
+.container {
+  margin: 10px auto;
+  max-width: 900px;
+  padding: 0 10px;
+}
+.header{
+  width: 100%;
+  padding: 10px;
+  background-color: #fff;
+  border: 2px solid #000;
+  border-radius: 20px/20px;
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
